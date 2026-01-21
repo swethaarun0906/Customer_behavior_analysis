@@ -17,11 +17,11 @@ Key issues handled include missing values, duplicates, and inconsistent formats.
 
 ## Tools & Technologies
 
-Python – Data loading, cleaning, and EDA
+# Python – Data loading, cleaning, and EDA
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
-SQL – Data querying and analysis
+# SQL – Data querying and analysis
 
 PostgreSQL / MySQL / SQL Server
 
@@ -33,33 +33,33 @@ Jupyter Notebook – Analysis and documentation
 
 ## Project Steps
 
-Data Loading
+# Data Loading
 
 Imported dataset into Python using Pandas.
 
-Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 Analyzed data structure, distributions, and relationships.
 
 Identified trends, outliers, and anomalies.
 
-Data Cleaning
+# Data Cleaning
 
 Handled missing values and duplicates.
 
 Standardized column names and data formats.
 
-SQL Analysis
+# SQL Analysis
 
 Loaded cleaned data into a relational database.
 
 Executed SQL queries to answer key business questions.
 
-Dashboard Creation
+# Dashboard Creation
 
 Built an interactive Power BI dashboard for insights.
 
-Reporting & Presentation
+# Reporting & Presentation
 
 Documented findings in a report.
 
